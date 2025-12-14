@@ -242,7 +242,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - [TransformerLens](https://github.com/neelnanda-io/TransformerLens) by Neel Nanda
-- [Anthropic](https://www.anthropic.com/) for interpretability research
 - The mechanistic interpretability community
 
 ---
