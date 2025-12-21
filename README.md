@@ -348,9 +348,17 @@ Email: Create an issue for questions
 ## Acknowledgments
 
 Built with TransformerLens by Neel Nanda
-UI design inspired by cyberpunk aesthetics
 Thanks to the open-source ML community
 
 ---
 
 Built for interpretability researchers and AI safety enthusiasts
+
+<img width="1727" height="647" alt="image" src="https://github.com/user-attachments/assets/8c2c5bdb-5cc2-441c-9a96-4e2b0c1a22b4" />
+<img width="1736" height="455" alt="image" src="https://github.com/user-attachments/assets/8202c920-96e0-4455-83e8-2aae5866a6d2" />
+<img width="1715" height="703" alt="image" src="https://github.com/user-attachments/assets/31b40143-d8a7-46e2-bc9b-7be11f97df15" />
+
+<img width="1449" height="590" alt="image" src="https://github.com/user-attachments/assets/b9ed051f-cd8f-437b-bb64-46124d8f17d1" />
+on TruthfulQA Evaluation
+
+
